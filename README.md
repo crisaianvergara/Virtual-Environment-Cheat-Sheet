@@ -1,8 +1,5 @@
 # Virtual-Environment-Cheat-Sheet
 
-
-# Virtual Environment
-
 # On CMD
 
 - pip list - list of package installed globally
