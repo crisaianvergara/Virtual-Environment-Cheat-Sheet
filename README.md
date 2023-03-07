@@ -26,6 +26,7 @@
 # Requirements
 
 - pip install -r requirements.txt - install all packages required
+- pip freeze - check all requirements to install
 
 # Fastest Way
 
